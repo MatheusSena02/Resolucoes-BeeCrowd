@@ -12,7 +12,7 @@ Antes da leitura de X deve ser impressa a mensagem "novo calculo (1-sim 2-nao)" 
 
 A média deve ser impressa com dois dígitos após o ponto decimal.
 
-```
+~~~C
 #include <stdio.h>
 
 int main()
@@ -76,4 +76,4 @@ int main()
         
     }
 }
-```
+~~~C
