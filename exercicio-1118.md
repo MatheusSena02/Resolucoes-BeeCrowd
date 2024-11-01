@@ -17,6 +17,7 @@ Se uma nota inválida for lida, deve ser impressa a mensagem “nota invalida”
 **A média deve ser impressa com dois dígitos após o ponto decimal.**
 
 
+# Resolução 
 ```
 #include <stdio.h>
 
