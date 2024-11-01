@@ -8,3 +8,10 @@
 </p>
 <p aling = "left">
 💼 Perfil do Linkedin : <a href="https://br.linkedin.com/">Matheus Sena</a>
+</p>
+<p>
+🗣️Reclame Aqui : Esse repositório está aberta para sugerir soluções, assim como também receber sugestões. Então, sinta-se a vontade pra dar sugestões de correção do código ou até mesmo outras formas de solucionar o exercício
+</p>
+<p>
+👍A união faz a força!
+</p>
